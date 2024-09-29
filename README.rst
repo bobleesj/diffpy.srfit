@@ -153,7 +153,7 @@ Support and Contribute
 
 `Diffpy user group <https://groups.google.com/g/diffpy-users>`_ is the discussion forum for general questions and discussions about the use of diffpy.srfit. Please join the diffpy.srfit users community by joining the Google group. The diffpy.srfit project welcomes your expertise and enthusiasm!
 
-If you see a bug or want to request a feature, please `report it as an issue <https://github.com/diffpy/diffpy.srfit/issues>`_ and/or `submit a fix as a PR <https://github.com/diffpy/diffpy.srfit/pulls>`_. You can also post it to the `Diffpy user group <https://groups.google.com/g/diffpy-users>`_. 
+If you see a bug or want to request a feature, please `report it as an issue <https://github.com/diffpy/diffpy.srfit/issues>`_ and/or `submit a fix as a PR <https://github.com/diffpy/diffpy.srfit/pulls>`_. You can also post it to the `Diffpy user group <https://groups.google.com/g/diffpy-users>`_.
 
 diffpy.srfit is an open-source software developed as a part of the DiffPy-CMI
 complex modeling initiative at the Brookhaven National Laboratory.

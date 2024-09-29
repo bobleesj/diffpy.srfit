@@ -14,7 +14,6 @@
 ##############################################################################
 
 
-
 """Complex modeling framework for structure refinement and solution.
 
 SrFit is a tool for coherently combining known information about a material to

@@ -32,4 +32,3 @@ Release Notes
 * Crash in `ellipsoidsas.py` example because of bug in `Parameter.setValue`.
 * Pickling of `ProfileGenerator` objects and of bound class methods.
 * Invalid escape sequences in string values.
-
